@@ -1,5 +1,5 @@
 # Different-Covariance-Structures-in-Linear-Mixed-Effects-Modeling-of-fMRI-Data
-Code supporting unstructured covariance matrix in 3dLME in support of the manuscript:
+R code supporting unstructured covariance matrix in 3dLME in support of the manuscript:
 
 Human Brain Mapping
 Manuscript Number: HBM-23-1090.R1
