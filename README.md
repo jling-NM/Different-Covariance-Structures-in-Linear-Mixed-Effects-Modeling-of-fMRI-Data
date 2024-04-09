@@ -7,3 +7,5 @@ Manuscript Number: HBM-23-1090.R1
 Authors: Harm Jan van der Horn, Erik B. Erhardt, Andrew B. Dodd, Upasana Nathaniel, Tracey V. Wick, Jessica R. McQuaid, Sephira G. Ryman, Andrei A. Vakhtin, Timothy B. Meier, Andrew R. Mayer
 
 Title: A Cautionary Tale on the Effects of Different Covariance Structures in Linear Mixed Effects Modeling of fMRI Data 
+
+This code is protected by the original AFNI GNU General Public License (GPL) https://afni.nimh.nih.gov/Legal_info
